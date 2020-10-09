@@ -15,7 +15,11 @@
 
 /* HTML Styles */
 
+html {
+   background: url(sd_black1.png) 100% cover/no-repeat;
+background-attachment: fixed;
 
+}
 
 /* Body Styles */
 
