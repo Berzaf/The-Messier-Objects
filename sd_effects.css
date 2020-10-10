@@ -59,4 +59,6 @@ img#mportrat {
 
 /* Footer Styles */
 
-
+footer {
+   border-top: 2px solid rgb(171, 171, 171);
+}
